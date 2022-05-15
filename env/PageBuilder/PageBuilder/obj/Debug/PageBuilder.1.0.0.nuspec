@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PageBuilder</id>
+    <version>1.0.0</version>
+    <authors>PageBuilder</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\bin\Debug\net6.0\PageBuilder.runtimeconfig.json" target="lib\net6.0\PageBuilder.runtimeconfig.json" />
+    <file src="D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\bin\Debug\net6.0\PageBuilder.dll" target="lib\net6.0\PageBuilder.dll" />
+  </files>
+</package>

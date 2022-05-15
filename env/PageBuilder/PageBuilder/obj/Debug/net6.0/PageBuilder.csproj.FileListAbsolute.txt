@@ -1,0 +1,15 @@
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\bin\Debug\net6.0\PageBuilder.exe
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\bin\Debug\net6.0\PageBuilder.deps.json
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\bin\Debug\net6.0\PageBuilder.runtimeconfig.json
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\bin\Debug\net6.0\PageBuilder.dll
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\bin\Debug\net6.0\ref\PageBuilder.dll
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\bin\Debug\net6.0\PageBuilder.pdb
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\PageBuilder.csproj.AssemblyReference.cache
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\PageBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\PageBuilder.AssemblyInfoInputs.cache
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\PageBuilder.AssemblyInfo.cs
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\PageBuilder.csproj.CoreCompileInputs.cache
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\PageBuilder.dll
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\ref\PageBuilder.dll
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\PageBuilder.pdb
+D:\Work\2022\Project\Homepage\env\PageBuilder\PageBuilder\obj\Debug\net6.0\PageBuilder.genruntimeconfig.cache
